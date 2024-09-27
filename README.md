@@ -3,7 +3,7 @@
 Welcome to "HTML-CHALLENGES" a repository with HTML challenges for beginners!
 <br><br>
 
-![HTML-CHALLENGES](https://socialify.git.ci/codeskills-dev/30-days-of-html/image?font=Inter&forks=1&language=1&name=1&stargazers=1&theme=Auto)
+
 
 ## Overview
 
