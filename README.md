@@ -1,7 +1,7 @@
 # HTML-CHALLENGES🎖️💻
 
 Welcome to "HTML-CHALLENGES" a repository with HTML challenges for beginners!
-<a href="https://socialify.git.ci/wei/socialify/image?description=1&descriptionEditable=HTML%20Challenges%20&font=Inter&pattern=Signal&theme=Dark"></a>
+<img src="https://socialify.git.ci/wei/socialify/image?description=1&descriptionEditable=HTML%20Challenges%20&font=Inter&pattern=Signal&theme=Dark" />
 <br><br>
 
 
